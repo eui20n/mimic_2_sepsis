@@ -74,8 +74,6 @@ hadm_id 이거 조인해야함 -> 버릴 수도 있음
 
 value가 Unable to Assess인거 제거
 
-int(dt.strftime("포맷"))
-
 
 [패혈증에 관한 참고 자료들]
 http://www.snuh.org/health/nMedInfo/nView.do?category=DIS&medid=AA000043
