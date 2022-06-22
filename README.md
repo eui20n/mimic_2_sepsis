@@ -42,16 +42,21 @@
 
 ## 3. 모델 및 사용 결과
 ### 3-1. RF
-![image](https://user-images.githubusercontent.com/74887218/174984390-9c62542a-298f-439f-9ecc-b33ec73d5717.png width="30%" height="30%")   
+<img src = "https://user-images.githubusercontent.com/74887218/174984390-9c62542a-298f-439f-9ecc-b33ec73d5717.png" width="30%" height="30%">
 너무 높게 나왔습니다. 아마도 전처리 하는 과정에서 문제가 생긴 것 같습니다.
 ***
 
 ### 3-2. DT
-![image](https://user-images.githubusercontent.com/74887218/174984562-27543084-2d48-4a3f-b2cc-5667cc059c98.png)   
+<img src = "https://user-images.githubusercontent.com/74887218/174984562-27543084-2d48-4a3f-b2cc-5667cc059c98.png" width="30%" height="30%">   
 RF모델과 같이 전처리 과정에서 문제가 생긴 것 같습니다. 
 ***
 
 ### 3-3. ANN
-![image](https://user-images.githubusercontent.com/74887218/174984736-1e4f9cd8-076c-4ffe-85bb-5afd9f90a8d1.png)
+<img src = "https://user-images.githubusercontent.com/74887218/174984736-1e4f9cd8-076c-4ffe-85bb-5afd9f90a8d1.png" width="70%" height="70%">   
+- batch size = 100, epoch = 100 으로 했습니다.
 ***
+
+### 3-4. MLP
+<img src = "https://user-images.githubusercontent.com/74887218/174986347-ba75af0c-ecb7-474f-a73b-f90e651491b2.png" width="30%" height="30%">   
+*** 
 
