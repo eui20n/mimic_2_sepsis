@@ -47,7 +47,7 @@
 ***
 
 ### 3-2. DT
-<img src = "https://user-images.githubusercontent.com/74887218/174984562-27543084-2d48-4a3f-b2cc-5667cc059c98.png" width="30%" height="30%">   
+<img src = "https://user-images.githubusercontent.com/74887218/174984562-27543084-2d48-4a3f-b2cc-5667cc059c98.png" width="10%" height="10%">   
 RF모델과 같이 전처리 과정에서 문제가 생긴 것 같습니다. 
 ***
 
