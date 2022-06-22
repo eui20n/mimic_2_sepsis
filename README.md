@@ -58,5 +58,5 @@ RF모델과 같이 전처리 과정에서 문제가 생긴 것 같습니다.
 
 ### 3-4. MLP
 <img src = "https://user-images.githubusercontent.com/74887218/174986347-ba75af0c-ecb7-474f-a73b-f90e651491b2.png" width="30%" height="30%">   
-*** 
+
 
